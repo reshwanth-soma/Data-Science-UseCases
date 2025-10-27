@@ -1,5 +1,6 @@
-      This repository consists of two independent data-driven projects, both showcasing analytical and visualization skills using real-world datasets and tools like Python, Pandas, TextBlob, and Matplotlib.
-      Each project focuses on transforming raw data into clear insights — one in the entertainment domain and the other in environmental policy.
+This repository consists of two independent data-driven projects, both showcasing analytical and visualization skills using real-world datasets and tools like Python, Pandas, TextBlob, and Matplotlib.
+
+Each project focuses on transforming raw data into clear insights — one in the entertainment domain and the other in environmental policy.
 
 
     Project 1: IMDb Movie Sentiment Analysis

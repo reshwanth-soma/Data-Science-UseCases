@@ -1,0 +1,18 @@
+Movie Sentiment Summary
+-----------------------
+Total movies analyzed: 15
+Total reviews processed: 50000
+
+Top 3 Positive Movies:
+1. The Lion King — avg_sentiment: 0.1063 (reviews: 3219)
+2. Gladiator — avg_sentiment: 0.1041 (reviews: 3392)
+3. Inception — avg_sentiment: 0.1035 (reviews: 3330)
+
+Top 3 Negative Movies:
+15. Interstellar — avg_sentiment: 0.0965 (reviews: 3350)
+14. Avatar — avg_sentiment: 0.0971 (reviews: 3332)
+13. Avengers: Endgame — avg_sentiment: 0.0983 (reviews: 3358)
+
+Overall sentiment range:
+Max avg_sentiment: 0.1063
+Min avg_sentiment: 0.0965

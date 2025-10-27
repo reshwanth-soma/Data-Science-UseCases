@@ -1,8 +1,8 @@
-This repository consists of two independent data-driven projects, both showcasing analytical and visualization skills using real-world datasets and tools like Python, Pandas, TextBlob, and Matplotlib.
-Each project focuses on transforming raw data into clear insights — one in the entertainment domain and the other in environmental policy.
+      This repository consists of two independent data-driven projects, both showcasing analytical and visualization skills using real-world datasets and tools like Python, Pandas, TextBlob, and Matplotlib.
+      Each project focuses on transforming raw data into clear insights — one in the entertainment domain and the other in environmental policy.
 
 
-Project 1: IMDb Movie Sentiment Analysis
+    Project 1: IMDb Movie Sentiment Analysis
 This project analyzes audience opinions from IMDb reviews and aggregates sentiment at the movie level using NLP tools like TextBlob.
 Each review is scored for sentiment (positive, neutral, or negative), then averaged by movie title to identify which films are most loved or criticized.
 
@@ -27,7 +27,7 @@ Demonstrates how text-based audience feedback can be transformed into actionable
 
 
 
-Project 2: Global CO₂ Accountability – A Policy Brief
+    Project 2: Global CO₂ Accountability – A Policy Brief
 This policy brief analyzes global carbon emissions data (2023) to identify top emitters and recommend targeted decarbonization strategies.
 The analysis focuses on absolute emissions, per capita emissions, and per GDP emissions to compare responsibility among major global economies.
 

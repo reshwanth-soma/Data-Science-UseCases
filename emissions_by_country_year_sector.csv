@@ -1,0 +1,421 @@
+country,year,sector,total_emissions
+Brazil,2019,Domestic Aviation,10.0802662
+Brazil,2019,Ground Transport,171.1684
+Brazil,2019,Industry,130.017966
+Brazil,2019,International Aviation,6.6142732
+Brazil,2019,Power,80.199986
+Brazil,2019,Residential,36.6241423
+Brazil,2020,Domestic Aviation,6.07338915
+Brazil,2020,Ground Transport,145.0273742
+Brazil,2020,Industry,124.04257199999999
+Brazil,2020,International Aviation,2.79826081
+Brazil,2020,Power,70.78899
+Brazil,2020,Residential,36.6241603
+Brazil,2021,Domestic Aviation,8.65025629
+Brazil,2021,Ground Transport,162.3656034
+Brazil,2021,Industry,129.403166
+Brazil,2021,International Aviation,2.9841704
+Brazil,2021,Power,122.135908
+Brazil,2021,Residential,36.6241423
+Brazil,2022,Domestic Aviation,10.8703367
+Brazil,2022,Ground Transport,169.298054
+Brazil,2022,Industry,128.931474
+Brazil,2022,International Aviation,4.99187574
+Brazil,2022,Power,47.066722
+Brazil,2022,Residential,36.6241423
+Brazil,2023,Domestic Aviation,4.7781022
+Brazil,2023,Ground Transport,69.650576
+Brazil,2023,Industry,49.950304
+Brazil,2023,International Aviation,2.4148827
+Brazil,2023,Power,14.415289
+Brazil,2023,Residential,15.2600467
+China,2019,Domestic Aviation,62.4585104
+China,2019,Ground Transport,923.99509
+China,2019,Industry,4101.706
+China,2019,International Aviation,31.4389986
+China,2019,Power,4569.01913
+China,2019,Residential,804.38035
+China,2020,Domestic Aviation,51.5524158
+China,2020,Ground Transport,808.948121
+China,2020,Industry,4258.21922
+China,2020,International Aviation,12.7527682
+China,2020,Power,4656.29234
+China,2020,Residential,808.11008
+China,2021,Domestic Aviation,57.8399209
+China,2021,Ground Transport,907.48407
+China,2021,Industry,4371.35427
+China,2021,International Aviation,10.9957295
+China,2021,Power,5078.3359
+China,2021,Residential,798.53147
+China,2022,Domestic Aviation,34.6451995
+China,2022,Ground Transport,875.06984
+China,2022,Industry,4200.39966
+China,2022,International Aviation,9.38662
+China,2022,Power,5141.3913
+China,2022,Residential,816.24389
+China,2023,Domestic Aviation,25.8350735
+China,2023,Ground Transport,382.15862
+China,2023,Industry,1710.65349
+China,2023,International Aviation,4.7243734
+China,2023,Power,2104.9814
+China,2023,Residential,384.16753
+EU27 & UK,2019,Domestic Aviation,16.5150549
+EU27 & UK,2019,Ground Transport,879.86619
+EU27 & UK,2019,Industry,632.436935
+EU27 & UK,2019,International Aviation,190.896978
+EU27 & UK,2019,Power,933.74006
+EU27 & UK,2019,Residential,621.485969
+EU27 & UK,2020,Domestic Aviation,8.59467814
+EU27 & UK,2020,Ground Transport,830.15596
+EU27 & UK,2020,Industry,583.890452
+EU27 & UK,2020,International Aviation,78.6302827
+EU27 & UK,2020,Power,806.32882
+EU27 & UK,2020,Residential,609.100668
+EU27 & UK,2021,Domestic Aviation,11.2660927
+EU27 & UK,2021,Ground Transport,885.17511
+EU27 & UK,2021,Industry,641.241478
+EU27 & UK,2021,International Aviation,98.659176
+EU27 & UK,2021,Power,889.522
+EU27 & UK,2021,Residential,658.504275
+EU27 & UK,2022,Domestic Aviation,14.5600984
+EU27 & UK,2022,Ground Transport,884.94155
+EU27 & UK,2022,Industry,664.998588
+EU27 & UK,2022,International Aviation,163.09517
+EU27 & UK,2022,Power,930.18485
+EU27 & UK,2022,Residential,608.675043
+EU27 & UK,2023,Domestic Aviation,5.908224
+EU27 & UK,2023,Ground Transport,374.91911
+EU27 & UK,2023,Industry,276.654366
+EU27 & UK,2023,International Aviation,66.700302
+EU27 & UK,2023,Power,310.6327
+EU27 & UK,2023,Residential,326.822654
+France,2019,Domestic Aviation,2.3268967
+France,2019,Ground Transport,116.619405
+France,2019,Industry,61.6667136
+France,2019,International Aviation,20.1138888
+France,2019,Power,29.429994
+France,2019,Residential,79.8703973
+France,2020,Domestic Aviation,1.2929022404
+France,2020,Ground Transport,105.09511
+France,2020,Industry,54.7306219
+France,2020,International Aviation,8.83622525
+France,2020,Power,26.904545
+France,2020,Residential,76.0239508
+France,2021,Domestic Aviation,1.72464943
+France,2021,Ground Transport,118.219392
+France,2021,Industry,58.1228222
+France,2021,International Aviation,11.5033434
+France,2021,Power,28.524801
+France,2021,Residential,83.6191986
+France,2022,Domestic Aviation,1.93709281
+France,2022,Ground Transport,118.804889
+France,2022,Industry,58.9199174
+France,2022,International Aviation,17.8770186
+France,2022,Power,34.295324
+France,2022,Residential,75.8204125
+France,2023,Domestic Aviation,0.72355654
+France,2023,Ground Transport,49.879676
+France,2023,Industry,24.9049299
+France,2023,International Aviation,7.4625653
+France,2023,Power,11.817255
+France,2023,Residential,41.4238384
+Germany,2019,Domestic Aviation,2.12409486
+Germany,2019,Ground Transport,150.481393
+Germany,2019,Industry,124.054473
+Germany,2019,International Aviation,28.7922679
+Germany,2019,Power,243.219986
+Germany,2019,Residential,138.2136789
+Germany,2020,Domestic Aviation,1.018777383
+Germany,2020,Ground Transport,149.137727
+Germany,2020,Industry,113.0152695
+Germany,2020,International Aviation,13.1032385
+Germany,2020,Power,204.329917
+Germany,2020,Residential,134.1300919
+Germany,2021,Domestic Aviation,0.917224109
+Germany,2021,Ground Transport,150.419537
+Germany,2021,Industry,118.4737671
+Germany,2021,International Aviation,16.5137737
+Germany,2021,Power,239.423859
+Germany,2021,Residential,150.5907198
+Germany,2022,Domestic Aviation,1.15224465
+Germany,2022,Ground Transport,149.582539
+Germany,2022,Industry,117.9962606
+Germany,2022,International Aviation,23.9753874
+Germany,2022,Power,258.276721
+Germany,2022,Residential,134.7328108
+Germany,2023,Domestic Aviation,0.499600604
+Germany,2023,Ground Transport,62.624113
+Germany,2023,Industry,49.617922
+Germany,2023,International Aviation,9.7151034
+Germany,2023,Power,89.277584
+Germany,2023,Residential,75.6085935
+India,2019,Domestic Aviation,7.1957491000000005
+India,2019,Ground Transport,299.62972
+India,2019,Industry,751.12442
+India,2019,International Aviation,12.0438273
+India,2019,Power,1197.63998
+India,2019,Residential,204.052731
+India,2020,Domestic Aviation,3.9076653346
+India,2020,Ground Transport,258.160396
+India,2020,Industry,655.950875
+India,2020,International Aviation,5.57177325
+India,2020,Power,1139.5451
+India,2020,Residential,201.618102
+India,2021,Domestic Aviation,5.17972653
+India,2021,Ground Transport,268.91404
+India,2021,Industry,744.47222
+India,2021,International Aviation,6.04341442
+India,2021,Power,1278.17489
+India,2021,Residential,184.706526
+India,2022,Domestic Aviation,6.44059487
+India,2022,Ground Transport,290.621134
+India,2022,Industry,773.55169
+India,2022,International Aviation,10.4766766
+India,2022,Power,1390.28136
+India,2022,Residential,191.221548
+India,2023,Domestic Aviation,2.9500769
+India,2023,Ground Transport,121.308939
+India,2023,Industry,335.20236
+India,2023,International Aviation,5.0578515
+India,2023,Power,659.48004
+India,2023,Residential,97.435898
+Italy,2019,Domestic Aviation,1.88723078
+Italy,2019,Ground Transport,91.12591
+Italy,2019,Industry,54.38687
+Italy,2019,International Aviation,14.9858947
+Italy,2019,Power,93.880007
+Italy,2019,Residential,74.9534936
+Italy,2020,Domestic Aviation,1.002047675
+Italy,2020,Ground Transport,81.8395765
+Italy,2020,Industry,47.9729588
+Italy,2020,International Aviation,4.84827128
+Italy,2020,Power,86.748384
+Italy,2020,Residential,74.2466967
+Italy,2021,Domestic Aviation,1.469125802
+Italy,2021,Ground Transport,90.644344
+Italy,2021,Industry,54.4470577
+Italy,2021,International Aviation,6.4677769
+Italy,2021,Power,90.324046
+Italy,2021,Residential,77.7737283
+Italy,2022,Domestic Aviation,1.95819584
+Italy,2022,Ground Transport,90.621587
+Italy,2022,Industry,54.4212796
+Italy,2022,International Aviation,11.5799275
+Italy,2022,Power,101.359117
+Italy,2022,Residential,72.7720449
+Italy,2023,Domestic Aviation,0.7372981
+Italy,2023,Ground Transport,39.049459
+Italy,2023,Industry,23.4421
+Italy,2023,International Aviation,4.9155651
+Italy,2023,Power,33.346694
+Italy,2023,Residential,39.8981987
+Japan,2019,Domestic Aviation,9.01393752
+Japan,2019,Ground Transport,178.220932
+Japan,2019,Industry,268.825171
+Japan,2019,International Aviation,19.5749107
+Japan,2019,Power,524.539991
+Japan,2019,Residential,108.312329
+Japan,2020,Domestic Aviation,6.5078695
+Japan,2020,Ground Transport,167.564757
+Japan,2020,Industry,241.03857299999999
+Japan,2020,International Aviation,8.73283861
+Japan,2020,Power,516.831841
+Japan,2020,Residential,108.409187
+Japan,2021,Domestic Aviation,6.54719809
+Japan,2021,Ground Transport,172.089595
+Japan,2021,Industry,254.444582
+Japan,2021,International Aviation,8.3641499
+Japan,2021,Power,497.804389
+Japan,2021,Residential,107.431895
+Japan,2022,Domestic Aviation,9.1519457
+Japan,2022,Ground Transport,179.038788
+Japan,2022,Industry,254.333674
+Japan,2022,International Aviation,9.3533675
+Japan,2022,Power,517.454019
+Japan,2022,Residential,111.30337
+Japan,2023,Domestic Aviation,3.8996546
+Japan,2023,Ground Transport,75.33111
+Japan,2023,Industry,101.409613
+Japan,2023,International Aviation,5.6613069
+Japan,2023,Power,191.804448
+Japan,2023,Residential,59.534966
+ROW,2019,Domestic Aviation,69.290614
+ROW,2019,Ground Transport,2177.4323
+ROW,2019,Industry,3578.2932299999998
+ROW,2019,International Aviation,277.168214
+ROW,2019,Power,3773.9337
+ROW,2019,Residential,1016.1141
+ROW,2020,Domestic Aviation,40.6477605
+ROW,2020,Ground Transport,1879.6129
+ROW,2020,Industry,3371.06245
+ROW,2020,International Aviation,120.1527907
+ROW,2020,Power,3533.2125
+ROW,2020,Residential,1025.77862
+ROW,2021,Domestic Aviation,49.0424923
+ROW,2021,Ground Transport,2086.14925
+ROW,2021,Industry,3566.47272
+ROW,2021,International Aviation,139.346326
+ROW,2021,Power,3478.3294300000002
+ROW,2021,Residential,993.06415
+ROW,2022,Domestic Aviation,65.159299
+ROW,2022,Ground Transport,2285.18451
+ROW,2022,Industry,3771.32177
+ROW,2022,International Aviation,204.666389
+ROW,2022,Power,3377.54822
+ROW,2022,Residential,1012.44498
+ROW,2023,Domestic Aviation,28.028042
+ROW,2023,Ground Transport,986.29
+ROW,2023,Industry,1537.29419
+ROW,2023,International Aviation,102.092409
+ROW,2023,Power,1339.71788
+ROW,2023,Residential,507.76724
+Russia,2019,Domestic Aviation,15.4215102
+Russia,2019,Ground Transport,232.372603
+Russia,2019,Industry,284.324305
+Russia,2019,International Aviation,13.2775779
+Russia,2019,Power,840.44004
+Russia,2019,Residential,172.031816
+Russia,2020,Domestic Aviation,13.4161851
+Russia,2020,Ground Transport,222.812639
+Russia,2020,Industry,287.868086
+Russia,2020,International Aviation,5.2717709
+Russia,2020,Power,979.18902
+Russia,2020,Residential,165.454955
+Russia,2021,Domestic Aviation,18.5671246
+Russia,2021,Ground Transport,232.167514
+Russia,2021,Industry,302.454596
+Russia,2021,International Aviation,7.10126854
+Russia,2021,Power,1166.67649
+Russia,2021,Residential,181.643224
+Russia,2022,Domestic Aviation,17.1906106
+Russia,2022,Ground Transport,227.197966
+Russia,2022,Industry,298.171408
+Russia,2022,International Aviation,4.81192338
+Russia,2022,Power,1145.60725
+Russia,2022,Residential,177.104446
+Russia,2023,Domestic Aviation,6.2724282
+Russia,2023,Ground Transport,94.541195
+Russia,2023,Industry,119.053749
+Russia,2023,International Aviation,2.3439858
+Russia,2023,Power,516.91132
+Russia,2023,Residential,91.349896
+Spain,2019,Domestic Aviation,5.63523937
+Spain,2019,Ground Transport,84.8288983
+Spain,2019,Industry,62.2487267
+Spain,2019,International Aviation,24.2546689
+Spain,2019,Power,55.080006
+Spain,2019,Residential,36.7003383
+Spain,2020,Domestic Aviation,3.013127342
+Spain,2020,Ground Transport,75.6051469
+Spain,2020,Industry,55.9874255
+Spain,2020,International Aviation,8.45080576
+Spain,2020,Power,41.594356
+Spain,2020,Residential,36.2590666
+Spain,2021,Domestic Aviation,4.36696629
+Spain,2021,Ground Transport,87.8145946
+Spain,2021,Industry,60.5501273
+Spain,2021,International Aviation,12.01578097
+Spain,2021,Power,40.997582
+Spain,2021,Residential,37.1514067
+Spain,2022,Domestic Aviation,5.88181122
+Spain,2022,Ground Transport,83.8920868
+Spain,2022,Industry,61.7615362
+Spain,2022,International Aviation,21.5153703
+Spain,2022,Power,52.315439
+Spain,2022,Residential,35.4034169
+Spain,2023,Domestic Aviation,2.4574505
+Spain,2023,Ground Transport,37.315716
+Spain,2023,Industry,26.3414338
+Spain,2023,International Aviation,8.8933812
+Spain,2023,Power,13.526862
+Spain,2023,Residential,17.8737679
+UK,2019,Domestic Aviation,2.411809498
+UK,2019,Ground Transport,113.803913
+UK,2019,Industry,61.2081419
+UK,2019,International Aviation,36.1355544
+UK,2019,Power,76.350004
+UK,2019,Residential,90.203261
+UK,2020,Domestic Aviation,1.038671607
+UK,2020,Ground Transport,104.287624
+UK,2020,Industry,61.2796328
+UK,2020,International Aviation,14.82747082
+UK,2020,Power,62.905387
+UK,2020,Residential,88.431622
+UK,2021,Domestic Aviation,1.273229717
+UK,2021,Ground Transport,115.309469
+UK,2021,Industry,67.2021442
+UK,2021,International Aviation,14.5182065
+UK,2021,Power,71.096723
+UK,2021,Residential,90.902783
+UK,2022,Domestic Aviation,1.791984898
+UK,2022,Ground Transport,119.068282
+UK,2022,Industry,63.9934413
+UK,2022,International Aviation,30.169803
+UK,2022,Power,72.787168
+UK,2022,Residential,86.128758
+UK,2023,Domestic Aviation,0.77680832
+UK,2023,Ground Transport,49.572089
+UK,2023,Industry,26.3045339
+UK,2023,International Aviation,12.980848
+UK,2023,Power,24.396043
+UK,2023,Residential,44.14118
+US,2019,Domestic Aviation,173.726669
+US,2019,Ground Transport,1645.393
+US,2019,Industry,999.59399
+US,2019,International Aviation,81.642573
+US,2019,Power,1605.90748
+US,2019,Residential,605.181931
+US,2020,Domestic Aviation,120.984351
+US,2020,Ground Transport,1486.67138
+US,2020,Industry,953.19769
+US,2020,International Aviation,44.2133491
+US,2020,Power,1436.34825
+US,2020,Residential,556.161502
+US,2021,Domestic Aviation,158.896452
+US,2021,Ground Transport,1592.58902
+US,2021,Industry,976.61484
+US,2021,International Aviation,53.9284084
+US,2021,Power,1535.52532
+US,2021,Residential,564.169718
+US,2022,Domestic Aviation,155.043937
+US,2022,Ground Transport,1555.16241
+US,2022,Industry,1025.14618
+US,2022,International Aviation,65.957132
+US,2022,Power,1642.69434
+US,2022,Residential,604.446453
+US,2023,Domestic Aviation,64.490631
+US,2023,Ground Transport,642.82423
+US,2023,Industry,425.84697
+US,2023,International Aviation,28.500289
+US,2023,Power,571.60212
+US,2023,Residential,259.359729
+WORLD,2019,Domestic Aviation,363.702319
+WORLD,2019,Ground Transport,6508.0784
+WORLD,2019,Industry,10746.3213
+WORLD,2019,International Aviation,632.65734
+WORLD,2019,Power,13525.4216
+WORLD,2019,Residential,3568.18312
+WORLD,2020,Domestic Aviation,251.684329
+WORLD,2020,Ground Transport,5798.95333
+WORLD,2020,Industry,10475.2693
+WORLD,2020,International Aviation,278.123846
+WORLD,2020,Power,13138.537
+WORLD,2020,Residential,3511.25726
+WORLD,2021,Domestic Aviation,315.989232
+WORLD,2021,Ground Transport,6306.9338
+WORLD,2021,Industry,10986.457
+WORLD,2021,International Aviation,327.422574
+WORLD,2021,Power,14046.5038
+WORLD,2021,Residential,3524.67559
+WORLD,2022,Domestic Aviation,313.062037
+WORLD,2022,Ground Transport,6466.5151
+WORLD,2022,Industry,11116.855
+WORLD,2022,International Aviation,472.739218
+WORLD,2022,Power,14192.2274
+WORLD,2022,Residential,3558.06327
+WORLD,2023,Domestic Aviation,142.162249
+WORLD,2023,Ground Transport,2747.0238
+WORLD,2023,Industry,4556.0642
+WORLD,2023,International Aviation,217.4954
+WORLD,2023,Power,5709.5459
+WORLD,2023,Residential,1741.69741
